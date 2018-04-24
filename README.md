@@ -10,10 +10,10 @@ wluck是使用springboot开发的一款后台管理基础系统，拿来即用�
 整合架构：springboot+shiro+beetl+MyBatisplus+durid。
 
 # 部署步骤
-1、下载源码至idea。
-2、修改Application.properties配置文件中数据库用户和密码。
-3、直接运行WLuckMgrApplication.main()方法即可
-4、输入http://localhost:8090/ 用户名密码admin/111111
+1、下载源码至idea。</br>
+2、使用项目中sql文件新建数据库并增加基础数据，修改Application.properties配置文件中数据库用户和密码。</br>
+3、直接运行WLuckMgrApplication.main()方法即可。</br>
+4、输入http://localhost:8090/ 用户名密码admin/111111。</br>
 
 # 讨论
 欢迎各位将使用中的问题反馈至yuren_88@126.com。
